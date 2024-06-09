@@ -1,0 +1,5 @@
+<?php
+
+/**
+ *	DocumentValidatorMiddleTier Helpers
+ */

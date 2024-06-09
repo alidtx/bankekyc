@@ -1,0 +1,218 @@
+ .bg-white{
+   background-color: #fff;
+ }
+ 
+h4, .h4 {
+  font-size: 1.5rem !important;
+}
+.claim-online{
+    padding: 70px 0;
+    background: #f0f5f8;
+}
+.claim-online .heading{
+    padding-bottom: 35px;
+}
+.partner-layout.style-1 {
+    padding: 70px 0 !important;
+    background: #f0f5f8;
+}
+.partner-layout.style-1 .partner-list .partner-item a {
+    background: #fff !important;
+    border: 1px solid #fff !important;
+}
+.home-page-1 .testinmonials-layout{
+    padding: 70px 0 !important;
+    background-color: #fff;
+}
+.heading-services-detail-5 {
+  text-align: left;
+  padding: 45px 0 !important;
+}
+.about-layout-1 {
+  padding: 70px 0 !important;
+}
+.testinmonials-layout.style-2{
+  padding: 70px 0 !important; 
+}
+.main-footer .services-widget .services-list ul li a {
+  font-size: 12px !important;
+}
+.main-footer .contact-widget .content p {
+  font-size: 12px;
+}
+.contact-layout-5 .info-accordion .accordion-title h4 { 
+  margin-bottom: 0;
+}
+.contact-layout-5 .info-accordion .accordion-title{
+  padding: 15px;
+}
+.contact-layout.style-3 .main-contact {
+  padding: 70px 0 !important;
+}
+.contact-layout.style-3 .contact-form {
+  margin-bottom: 0px !important;
+}
+.contact-layout-5 .contact-wrapper {
+  padding: 70px 0 !important;
+}
+.services-detail-1 {
+  padding: 70px 0 !important;
+}
+@media (max-width: 600px) {
+    .main {
+        border-radius: 0px;
+    }
+    
+}
+.text-center{
+    text-align: center;
+}
+
+.style-4{ 
+    height:auto !important;
+}
+.call-to-action-layout.style-1 { 
+  padding: 100px 0 120px 0 !important;
+}
+.navbar-main .search .search-icon { 
+  background: #ffffff !important;
+} 
+.navbar-main .search .search-icon:before { 
+  color: #000!important;
+}
+.login.login-3 .login-form{
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 1px 3px 8px 2px #b5b2b2;
+  margin: 30px 15px; 
+}
+.au-btn-orange {
+  background-color: #f39c12;
+  color: #fff;
+}
+ 
+ 
+.has-arrow .dropdown-toggle:after {
+  border-top: 0;
+  border-left: 0;
+  border-bottom: 2px solid #333;
+  border-right: 2px solid #333;
+  content: '';
+  height: 8px;
+  display: inline-block;
+  pointer-events: none;
+  -webkit-transform-origin: 66% 66%;
+  -ms-transform-origin: 66% 66%;
+  transform-origin: 66% 66%;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-transition: all 0.15s ease-in-out;
+  transition: all 0.15s ease-in-out;
+  width: 8px;
+  vertical-align: 2px;
+}
+  .has-arrow .dropdown-toggle[aria-expanded="true"]:after {
+  -webkit-transform: rotate(-135deg);
+  -ms-transform: rotate(-135deg);
+  transform: rotate(-135deg);
+}
+.dropdown-menu {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+  transform-origin: left top 0;
+  box-shadow: inherit;
+  background-color: #fff;
+  min-width: 150px;
+  
+}
+.card-footer {
+  padding: 2rem 0 0 2.25rem !important;
+}
+.text-gray{
+  color: #848484;
+}
+.user-text{
+  padding: 10px 15px !important;
+}
+.user-menu .dropdown-menu .dropdown-item {
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #e3e3e3;
+  padding: 10px 15px !important;
+}
+@media (max-width:991px){ 
+  .otp-form .form-control{ 
+  text-align: center;
+}
+}
+
+@media (max-width:768px){
+    .style-4{
+    margin-bottom: 20px !important;
+}
+}
+@media (max-width:575px){
+  .otp-form {
+      margin: 0;
+  }
+
+  .otp-form .col-sm-2{
+      width: 16.66%;
+      padding-left: 0;
+      padding-right: 0;
+  }
+  
+  .otp-form .form-control{
+      padding: 6px !important;
+      text-align: center; 
+  }
+  .otp-form .form-group{
+      padding: 3px !important;
+     
+  }
+}
+.navbar-main {
+  background: #177037 !important;
+}
+.btn.btn-light-primary {
+  color: #177037 !important;
+  background-color: #46ac6b45 !important;
+  border-color: transparent !important;
+}
+.btn.btn-light-primary i {
+  color: #177037 !important;
+}
+.sub-footer {
+  padding: 15px 0 !important;
+  background-color: #177037 !important;
+}
+.sub-footer .copyright {
+  
+  color: #f3f3f3 !important;
+}
+.btn.btn-primary {
+  color: #FFFFFF;
+  background-color: #177037 !important ;
+  border-color: #177037 !important;
+}
+@media (max-width:320px){
+  .otp-form .form-group{ 
+      padding: 5px;
+  } 
+  .otp-form .form-control{
+      padding: 6px !important;
+      text-align: center;
+  }
+}
+.header-main {
+    padding: 10px 0;
+    background-color: #fff;
+ }
+.heading-services-detail-1 .au-breadcrumb .au-breadcrumb-item:after {
+    color: #fff !important;
+}
+.heading-services-detail-1 .au-breadcrumb .au-breadcrumb-item a {
+  color: #fff !important;
+}
+ 
